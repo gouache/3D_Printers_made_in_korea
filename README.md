@@ -21,7 +21,7 @@
 | 오토레벨링 | ? | Inductive Sensor? | | | | | | |
 | 필 라 멘 트 | PLA, ABS, TPU | PLA, ABS | | | | | | |
 | 노 즐 개 수 | Single | Single | | | | | | |
-| 익스트루더 | MK8 | Single | | | | | | |
+| 익스트루더 | MK8 | ? | | | | | | |
 | S D 카 드 | O | ? | | | | | | |
 | USB 연 결 | O | ? | | | | | | |
 | 자체 슬라이서 | X | X | | | | | | |
