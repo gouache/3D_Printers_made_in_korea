@@ -3,7 +3,7 @@
 |   | <img src="images/plus200.png" height="100"> | <img src="images/overclone.png" height="100"> | <img src="images/ma300.png" height="100">| <img src="images/core200.png" height="100">| | | | |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 프린터 이름  | 플러스 200  | 오버클론 223 블랙| MA3D | 코어200 | | | | |
-| 판  매  처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어200](https://smartstore.naver.com/coreserise)| | | | |
+| 판  매  처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| | | | |
 | 가      격 | 1,430,000 원  | 528,000 원 | 1,674,000 원 | 610,000 원 | | | | |
 | 간 단 설 명 |   | | | | | | | |
 | 챔  버  형 | O | X | | | | | | |
