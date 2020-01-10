@@ -4,7 +4,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 | 프린터 이름  | 플러스 200  | 오버클론 223 블랙| MA3D | 코어200 | LUGO_PRO_M | CUBICON Single Plus | STICK | STEALTH 250 DELTA | N3D N200 | 델타250 | 크리메이커 오리지날| UT200 | MD-C2.5 |
 | 판  매  처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| [라온메이커](https://smartstore.naver.com/laonmaker)| [큐비콘](http://www.3dcubicon.com/)| [STICK](https://smartstore.naver.com/stick3d) | [스토리팜공방](https://smartstore.naver.com/farmspace) | [네오시스](https://smartstore.naver.com/neoizm) | [3Dfactory](https://smartstore.naver.com/samdnd) | [다락몰](https://smartstore.naver.com/cremaker) | [3D 아틀리에](http://www.3datelier.co.kr/) | [내써팝](http://nasspop.com/) |
-| 가      격 | 1,430,000 원  | 528,000 원 | 1,674,000 원 | 610,000 원 | 2,387,000 원 | 3,520,000 원 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 440,000 원 | 249,000 원| 650,000 원 | ? |
+| 가      격 | 1,430,000 원  | 528,000 원 | 1,674,000 원 | 610,000 원 | 2,387,000 원 | 3,520,000 원 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 440,000 원 | 249,000 원| 650,000 원 | 000,000 ? |
 | 간 단 설 명 |   | | | | | | | | | | | |
 | 챔  버  형 | O | X | | | | | | | | | | |
 | 조      립 | X | X | | | | | | | | | | |
