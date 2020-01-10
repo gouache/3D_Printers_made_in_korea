@@ -3,7 +3,7 @@
 |   | <img src="images/plus200.png" width="150"> | <img src="images/overclone.png" width="150"> | <img src="images/ma300.png" width="150">| <img src="images/core200.png" width="150">| <img src="images/lugo_pro_m.png" width="150"> | <img src="images/cubicon_single_p.png" width="150"> | <img src="images/stick.png" width="150">| |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 프린터 이름  | 플러스 200  | 오버클론 223 블랙| MA3D | 코어200 | LUGO_PRO_M | CUBICON Single Plus | STICK | |
-| 판  매  처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| [라온메이커](https://smartstore.naver.com/laonmaker)| [큐비콘](http://www.3dcubicon.com/)| [STICK](https://smartstore.naver.com/stick3d| |
+| 판  매  처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| [라온메이커](https://smartstore.naver.com/laonmaker)| [큐비콘](http://www.3dcubicon.com/)| [STICK](https://smartstore.naver.com/stick3d) | |
 | 가      격 | 1,430,000 원  | 528,000 원 | 1,674,000 원 | 610,000 원 | 2,387,000 원 | 3,520,000 원 | 1,450,000 원 | |
 | 간 단 설 명 |   | | | | | | | |
 | 챔  버  형 | O | X | | | | | | |
