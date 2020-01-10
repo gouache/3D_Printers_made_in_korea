@@ -1,6 +1,6 @@
 # 3D 프린터 (메이드 인 코리아, 2020년 1월 기준)
 
-|   | <img src="images/plus200.png" height="100"> | <img src="images/overclone.png" height="100"> | | | | | | |
+|   | <img src="images/plus200.png" height="100"> | <img src="images/overclone.png" height="100"> | <img src="images/ma300.png" height="100">| <img src="images/core200.png" height="100">| | | | |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 프린터 이름  | 플러스 200  | 오버클론 223 블랙| MA3D | 코어200 | | | | |
 | 판  매  처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어200](https://smartstore.naver.com/coreserise)| | | | |
