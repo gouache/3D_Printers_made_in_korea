@@ -78,9 +78,9 @@
 
 | | <img src="images/md-c2.5.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
-| 프린터 이름  |  MD-C2.5 |
-| 판매처 | [내써팝](http://nasspop.com/) |
-| 가격 | 000,000 ? |
+| 프린터 이름  |  MD-C2.5 | D3 |
+| 판매처 | [내써팝](http://nasspop.com/) | [크리에이터블](https://creatablelabs.com/) |
+| 가격 | 000,000 ? | 1,540,000 |
 | 간단 설명 |
 | 챔버형 |
 | 챔버 필터 |
