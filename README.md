@@ -3,7 +3,7 @@
 |   | <img src="images/plus200.png" width="150"> | <img src="images/overclone.png" width="150"> | <img src="images/ma300.png" width="150">| <img src="images/core200.png" width="150">| <img src="images/lugo_m.png" width="150"> | <img src="images/cubicon_single_p.png" width="150"> |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 프린터 이름  | 플러스 200  | 오버클론 223 블랙| MA3D | 코어200 | LUGO_M | CUBICON Single Plus |
-| 판매처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| [라온메이커](https://smartstore.naver.com/laonmaker)| [큐비콘](http://www.3dcubicon.com/)|
+| 판매처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| [포머스팜](https://smartstore.naver.com/laonmaker)| [큐비콘](http://www.3dcubicon.com/)|
 | 가격 | 1,430,000 원  | 528,000 원 | 1,674,000 원 | 610,000 원 | 1,991,000 원 | 3,520,000 원 |
 | 간단 설명 |
 | 챔버형 | O | X | 곡면철판+투명PC | 풀메탈 | O | O |
