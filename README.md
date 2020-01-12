@@ -24,8 +24,8 @@
 | Z축 이동 | ? | ? | 리드 스크류 | TM 스크류 |
 | 오토 레벨링 | ? | Inductive Sensor? | BL Touch |
 | 필라멘트 센서 | ? | ? | ? | ? | ? | O |
-| 디스플레이 | ? | ? | MKS TFT32 |
 | 필라멘트 | PLA, ABS, TPU | PLA, ABS | ? | PLA, ABS, Flexible | PLA, ABS, PC | ABS, PLA, TPU |
+| 디스플레이 | ? | ? | MKS TFT32 |
 | 노즐 개수 | Single | Single | Single | Single | Single |
 | 익스트루더 | MK8 보우덴 | ? | Titan st | 자체개발 |
 | SD 카드 | O | ? | ? | O | ? | ? |
@@ -41,38 +41,39 @@
 
 | | <img src="images/stick.png" width="150"> | <img src="images/stealth250.png" width="150"> | <img src="images/n200.png" width="150"> | <img src="images/delta250.png" width="150"> | <img src="images/cremaker.png" width="150"> | <img src="images/ut200.png" width="150"> |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
-| 프린터 이름  | STICK | STEALTH 250 DELTA | N3D N200 | 델타250 | 크리메이커 오리지날| UT200 | MD-C2.5 |
+| 프린터 이름  | STICK | S3D 250 | N3D N200 | 델타250 | 크리메이커 오리지날| UT200 | MD-C2.5 |
 | 판매처 | [STICK](https://smartstore.naver.com/stick3d) | [스토리팜공방](https://smartstore.naver.com/farmspace) | [네오시스](https://smartstore.naver.com/neoizm) | [3Dfactory](https://smartstore.naver.com/samdnd) | [다락몰](https://smartstore.naver.com/cremaker) | [3D 아틀리에](http://www.3datelier.co.kr/) |
 | 가격 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 440,000 원 | 249,000 원| 650,000 원 |
 | 간단 설명 |
-| 챔버형 |
-| 챔버 필터 |
-| 조립 판매 |
-| 완제품 판매 |
-| 제품크기(WxDxH) |
-| 출력크기(WxDxH) |
-| 무게 |
-| 출력 속도 |
-| SMPS |
-| 마더 보드 |
-| 드라이버 |
-| 히팅 베드 |
-| 베드 타입 |
-| 축 방식 |
-| Z축 이동 |
-| 오토 레벨링 |
+| 챔버형 | O | X | X |
+| 챔버 필터 | ? | X | X |
+| 조립 판매 | ? | ? | ? |
+| 완제품 판매 | ? | ? | ? |
+| 제품크기(WxDxH) | 385x442x650 | 420x430x800 | 480x500x490 |
+| 출력크기(WxDxH) | 210x200x270 | Ø 250x250 | 210x210x250 |
+| 무게 | 20 kg | 25 kg | ? |
+| 출력 속도 | ? | 10~80 mm/s | ? |
+| SMPS | ? | 12V 15A | 12V 350 W |
+| 마더 보드 | ? | ? | MKS Base |
+| 드라이버 | TMC | ? |
+| 히팅 베드 | ? | O |
+| 베드 타입 | ? | 에폭시 자석 |
+| 축 방식 | CORE XY | 델타 |
+| Z축 이동 | ? | 벨트 | MENDEL
+| 오토 레벨링 | BL Touch | X | 금속타입 |
 | 필라멘트 센서 | ? | ? | ? | ? | ? | ? |
-| 필라멘트 |
-| 노즐 개수 |
-| 익스트루더 |
-| SD 카드 |
-| USB 연결 |
+| 필라멘트 | PLA, ABS, CARBON, WOOD<br> PC, PA, FLEXIBLE, PET-G | PLA, ABS | PLA, ABS, Wood, Flexible |
+| 디스플레이 | ? | ? | 2004 LCD |
+| 노즐 개수 | ? | ? |
+| 익스트루더 | ? | ? 보우덴 |
+| SD 카드 | ? | O | O |
+| USB 연결 | ? | ? | O |
 | WIFI | ? | ? | ? | ? | ? | ? |
-| 자체 슬라이서 |
-| 펌웨어 |
-| Custom 펌웨어 |
-| 오픈소스 |
-| A/S 비용 |
+| 자체 슬라이서 | ? | ? |
+| 펌웨어 | ? | ? |
+| Custom 펌웨어 | ? | ? |
+| 오픈소스 | ? | ? |
+| A/S 비용 | ? | ? |
 
 # #3
 
@@ -100,6 +101,7 @@
 | 오토 레벨링 |
 | 필라멘트 센서 |
 | 필라멘트 |
+| 디스플레이 |
 | 노즐 개수 |
 | 익스트루더 |
 | SD 카드 |
