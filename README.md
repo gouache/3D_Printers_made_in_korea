@@ -77,7 +77,7 @@
 
 # #3
 
-| | <img src="images/md-c2.5.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> |
+| | <img src="images/md-c2.5.png" width="150"> | <img src="images/d3.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> | <img src="images/none.png" width="150"> |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | 프린터 이름  |  MD-C2.5 | D3 |
 | 판매처 | [내써팝](http://nasspop.com/) | [크리에이터블](https://creatablelabs.com/) |
