@@ -43,9 +43,9 @@
 
 | | <img src="images/stick.png" width="150"> | <img src="images/stealth250.png" width="150"> | <img src="images/n200.png" width="150"> | <img src="images/delta250.png" width="150"> | <img src="images/cremaker.png" width="150"> | <img src="images/ut200.png" width="150"> |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 프린터 이름  | STICK | S3D 250 | N3D N200 | 델타250 | 크리메이커 오리지날| UT200 |
+| 프린터 이름  | STICK | S3D 250 | N3D N200 | 델타 250 | 크리메이커 오리지날| UT200 |
 | 판매처 | [STICK](https://smartstore.naver.com/stick3d) | [스토리팜공방](https://smartstore.naver.com/farmspace) | [네오시스](https://smartstore.naver.com/neoizm) | [3Dfactory](https://smartstore.naver.com/samdnd) | [다락몰](https://smartstore.naver.com/cremaker) | [3D 아틀리에](http://www.3datelier.co.kr/) |
-| 가격 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 440,000 원 | 249,000 원| 650,000 원 |
+| 가격 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 550,000 원<br> 770,000 원| 249,000 원| 650,000 원 |
 | 간단 설명 |
 | 커뮤니티 | [STICK 3D FROM](https://cafe.naver.com/3dkor) | | [네오시스](https://cafe.naver.com/neoizm) | | [크리메이커](https://cafe.naver.com/cremaker) | [3D 아틀리에](https://cafe.naver.com/3datelier) |
 | 챔버형 | O | X | X | X | X | O |
