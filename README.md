@@ -50,34 +50,34 @@
 | 커뮤니티 | [STICK 3D FROM](https://cafe.naver.com/3dkor) | | [네오시스](https://cafe.naver.com/neoizm) | | [크리메이커](https://cafe.naver.com/cremaker) | [3D 아틀리에](https://cafe.naver.com/3datelier) |
 | 챔버형 | O | X | X | X | X | O |
 | 챔버 필터 |  | X | X | X | X |  |
-| 조립 판매 |  |  |  |  |  |  |
-| 완제품 판매 |  |  |  |  |  |  |
+| 조립 판매 |  |  |  | O (550,000 원) |  |  |
+| 완제품 판매 |  |  | | O (770,000 원) |  |  |  
 | 제품크기(WxDxH) | 385x442x650 | 420x430x800 | 480x500x490 | 300x300x700 | 400x390x340 | 340x356x600 |
-| 출력크기(WxDxH) | 210x200x270 | Ø 250 X 250 | 210x210x250 | 180x180x250 |  | 200x200x200 |
+| 출력크기(WxDxH) | 210x200x270 | Ø 250 X 250 | 210x210x250 | Ø 180 x 250 |  | 200x200x200 |
 | 무게 | 20 kg | 25 kg |  | 15 kg | 7 kg | 16 kg |
 | 출력 속도 |  | 10~80 mm/s |  | <180 mm/s | 30 ~ 120 mm/s | 20 ~ 60 mm/s |
-| SMPS |  | 12V 15A | 12V 350W | 360W | 100W (200W 옵션) | 24V  |
-| 마더 보드 |  |  | MKS Base | RAMPS |  | MKS Gen-L
-| 드라이버 | TMC |  |  |  |  |
+| SMPS |  | 12V 15A | 12V 350W | 120W | 100W (200W 옵션) | 24V  |
+| 마더 보드 |  |  | MKS Base | 자체개발보드 |  | MKS Gen-L
+| 드라이버 | TMC |  |  | DS 8825 |  | |
 | 히팅 베드 |  | O |  | O | △ (옵션) |
-| 베드 타입 |  | 에폭시 자석 |  |  |  |
-| 축 방식 | CORE XY | DELTA | DELTA |  |
+| 베드 타입 |  | 에폭시 자석 |  | 유리베드 |  |
+| 축 방식 | CORE XY | DELTA |  | DELTA | | |
 | Z축 이동 |  | BELT | MENDEL | BELT |  | 리드스크류 |
-| 오토 레벨링 | BL Touch | X | 금속타입 |  |  |
+| 오토 레벨링 | BL Touch | X | 금속타입 | 압력센서 |  | |
 | 필라멘트 센서 |  |  |  |  |  |  |
 | 필라멘트 | PLA, ABS, CARBON, WOOD<br> PC, PA, FLEXIBLE, PET-G | PLA, ABS | PLA, ABS, Wood, Flexible | ABS, PLA, TPU, HIPS<br> Flexible | PLA, ABS, TPU | PLA, ABS |
-| 디스플레이 |  |  | 2004 LCD | 2004 LCD |  | MKS 12864 Mini |
-| 노즐 개수 |  |  |  |  |  |
+| 디스플레이 |  |  | 2004 LCD | MINI 12864 |  | MINI 12864 |
+| 노즐 개수 |  |  |  | 1 |  | |
 | 핫엔드 |  |  |  |  |  | E3D V6 |
 | 익스트루더 |  |  보우덴 |  |  보우덴 |  |
 | SD 카드 |  | O | O | O | O |
-| USB 연결 |  |  | O |  |  |
-| WIFI |  |  |  |  |  |  |
+| USB 연결 |  |  | O | X |  |
+| WIFI |  |  |  | X |  |  |
 | 자체 슬라이서 |  |  |  | X |  |
-| 펌웨어 |  |  |  |  |  |
-| Custom 펌웨어 |  |  |  |  |  |
-| 오픈소스 |  |  |  |  |  |
-| A/S 비용 |  |  |  |  |  |
+| 펌웨어 |  |  |  | Marlin 2.0 |  | |
+| Custom 펌웨어 |  |  |  |  |  | |
+| 오픈소스 |  |  |  |  |  | |
+| A/S 비용 |  |  |  |  |  | |
 
 # #3
 
