@@ -1,4 +1,4 @@
-# 3D 프린터 (메이드 인 코리아, 2020년 1월 기준)
+# 20~30cm 출력 가능 3D 프린터 (메이드 인 코리아, 2020년 1월 기준)
 # #1
 |   | <img src="images/plus200.png" width="150"> | <img src="images/overclone.png" width="150"> | <img src="images/ma300.png" width="150">| <img src="images/core200.png" width="150">| <img src="images/lugo_m.png" width="150"> | <img src="images/cubicon_single_p.png" width="150"> |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
