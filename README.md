@@ -45,36 +45,36 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 프린터 이름  | STICK | S3D 250 | N3D N200 | 델타 250 | 크리메이커 오리지날| UT200 |
 | 판매처 | [STICK](https://smartstore.naver.com/stick3d) | [스토리팜공방](https://smartstore.naver.com/farmspace) | [네오시스](https://smartstore.naver.com/neoizm) | [3Dfactory](https://smartstore.naver.com/samdnd) | [다락몰](https://smartstore.naver.com/cremaker) | [3D 아틀리에](http://www.3datelier.co.kr/) |
-| 가격 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 550,000 원<br> 770,000 원| 249,000 원| 650,000 원 |
+| 가격 | 1,430,000 원 |  2,700,000 원 | 550,000 원 | 550,000 원<br> 770,000 원| 249,000 원| 650,000 원 |
 | 간단 설명 |
-| 커뮤니티 | [STICK 3D FROM](https://cafe.naver.com/3dkor) | | [네오시스](https://cafe.naver.com/neoizm) | | [크리메이커](https://cafe.naver.com/cremaker) | [3D 아틀리에](https://cafe.naver.com/3datelier) |
+| 커뮤니티 | [STICK 3D FROM](https://cafe.naver.com/3dkor) | | [네오시스](https://cafe.naver.com/neoizm) | [3Dfactory 블로그](https://blog.naver.com/phelpme) | [크리메이커](https://cafe.naver.com/cremaker) | [3D 아틀리에](https://cafe.naver.com/3datelier) |
 | 챔버형 | O | X | X | X | X | O |
-| 챔버 필터 |  | X | X | X | X |  |
-| 조립 판매 |  |  |  | O (550,000 원) |  |  |
-| 완제품 판매 |  |  | | O (770,000 원) |  |  |  
+| 챔버 필터 | X | X | X | X | X |  |
+| 조립 판매 | X |  |  | O (550,000 원) |  |  |
+| 완제품 판매 | O |  | | O (770,000 원) |  |  |  
 | 제품크기(WxDxH) | 385x442x650 | 420x430x800 | 480x500x490 | 300x300x700 | 400x390x340 | 340x356x600 |
 | 출력크기(WxDxH) | 210x200x270 | Ø 250 X 250 | 210x210x250 | Ø 180 x 250 |  | 200x200x200 |
 | 무게 | 20 kg | 25 kg |  | 15 kg | 7 kg | 16 kg |
 | 출력 속도 |  | 10~80 mm/s |  | <180 mm/s | 30 ~ 120 mm/s | 20 ~ 60 mm/s |
-| SMPS |  | 12V 15A | 12V 350W | 120W | 100W (200W 옵션) | 24V  |
-| 마더 보드 |  |  | MKS Base | 자체개발보드 |  | MKS Gen-L
-| 드라이버 | TMC |  |  | DS 8825 |  | |
-| 히팅 베드 |  | O |  | O | △ (옵션) |
-| 베드 타입 |  | 에폭시 자석 |  | 유리베드 |  |
+| SMPS | 한경테크 12V 350W | 12V 15A | 12V 350W | 120W | 100W (200W 옵션) | 24V  |
+| 마더 보드 | MKS GEN1.4 |  | MKS Base | 자체개발보드 |  | MKS Gen-L
+| 드라이버 | A4988(기본) TMC2208(옵션) |  |  | DS 8825 |  | |
+| 히팅 베드 | O | O |  | O | △ (옵션) |
+| 베드 타입 | 이제플레이트(에폭시) | 에폭시 자석 |  | 유리베드 |  |
 | 축 방식 | CORE XY | DELTA |  | DELTA | | |
-| Z축 이동 |  | BELT | MENDEL | BELT |  | 리드스크류 |
-| 오토 레벨링 | BL Touch | X | 금속타입 | 압력센서 |  | |
-| 필라멘트 센서 |  |  |  |  |  |  |
+| Z축 이동 | TM스크류 | BELT | MENDEL | BELT |  | 리드스크류 |
+| 오토 레벨링 | 정품 BL Touch (옵션) | X | 금속타입 | 압력센서 |  | |
+| 필라멘트 센서 | X |  |  |  |  |  |
 | 필라멘트 | PLA, ABS, CARBON, WOOD<br> PC, PA, FLEXIBLE, PET-G | PLA, ABS | PLA, ABS, Wood, Flexible | ABS, PLA, TPU, HIPS<br> Flexible | PLA, ABS, TPU | PLA, ABS |
-| 디스플레이 |  |  | 2004 LCD | MINI 12864 |  | MINI 12864 |
-| 노즐 개수 |  |  |  | 1 |  | |
-| 핫엔드 |  |  |  |  |  | E3D V6 |
-| 익스트루더 |  |  보우덴 |  |  보우덴 |  |
-| SD 카드 |  | O | O | O | O |
-| USB 연결 |  |  | O | X |  |
-| WIFI |  |  |  | X |  |  |
-| 자체 슬라이서 |  |  |  | X |  |
-| 펌웨어 |  |  |  | Marlin 2.0 |  | |
+| 디스플레이 | MINI 12864 |  | 2004 LCD | MINI 12864 |  | MINI 12864 |
+| 노즐 개수 | 1 |  |  | 1 |  | |
+| 핫엔드 | E3DV6 |  |  |  |  | E3D V6 |
+| 익스트루더 | Eztuder 직결식<br>(자체제작)  |  보우덴 |  |  보우덴 |  |
+| SD 카드 | O | O | O | O | O |
+| USB 연결 | O |  | O | X |  |
+| WIFI | X |  |  | X |  |  |
+| 자체 슬라이서 | X |  |  | X |  |
+| 펌웨어 | Marlin 2.0 |  |  | Marlin 2.0 |  | |
 | Custom 펌웨어 |  |  |  |  |  | |
 | 오픈소스 |  |  |  |  |  | |
 | A/S 비용 |  |  |  |  |  | |
@@ -86,7 +86,7 @@
 | 프린터 이름  |  MD-C2.5 | D3 |
 | 판매처 | [내써팝](http://nasspop.com/) | [크리에이터블](https://creatablelabs.com/) |
 | 가격 | 000,000  | 1,540,000 |
-| 간단 설명 | 판매사이트 검색 볼가 |
+| 간단 설명 | 판매사이트 검색 가 |
 | 커뮤니티 | | |
 | 챔버형 | | X |
 | 챔버 필터 | | X |
