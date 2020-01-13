@@ -6,6 +6,7 @@
 | 판매처 | [플러스 공방](https://smartstore.naver.com/diyplus) | [컴바인 3D](https://smartstore.naver.com/combine3d) | [메이드올](https://smartstore.naver.com/madeall) | [코어시리즈](https://smartstore.naver.com/coreserise)| [포머스팜](https://formersfarm.com/)| [큐비콘](http://www.3dcubicon.com/)|
 | 가격 | 1,430,000 원  | 528,000 원 | 1,674,000 원 | 610,000 원 | 1,991,000 원 | 3,520,000 원 |
 | 간단 설명 |
+| 커뮤니티 | [플러스공방](https://cafe.naver.com/joonggonara) | [컴바인](https://cafe.naver.com/overclone) | [메이드올](https://cafe.naver.com/madeall) | [메이킹툴](https://cafe.naver.com/makingtool) | [포머스팜](https://cafe.naver.com/shapewayskr) | [큐비콘](https://cafe.naver.com/3dcubicon)
 | 챔버형 | O | X | 곡면철판+투명PC | 풀메탈 | O | O |
 | 챔버 필터 |  | X |  |  |  | O |
 | 조립 판매| X | X |  | 반조립 |  | X |
@@ -41,11 +42,12 @@
 # #2
 
 | | <img src="images/stick.png" width="150"> | <img src="images/stealth250.png" width="150"> | <img src="images/n200.png" width="150"> | <img src="images/delta250.png" width="150"> | <img src="images/cremaker.png" width="150"> | <img src="images/ut200.png" width="150"> |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
-| 프린터 이름  | STICK | S3D 250 | N3D N200 | 델타250 | 크리메이커 오리지날| UT200 | MD-C2.5 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 프린터 이름  | STICK | S3D 250 | N3D N200 | 델타250 | 크리메이커 오리지날| UT200 |
 | 판매처 | [STICK](https://smartstore.naver.com/stick3d) | [스토리팜공방](https://smartstore.naver.com/farmspace) | [네오시스](https://smartstore.naver.com/neoizm) | [3Dfactory](https://smartstore.naver.com/samdnd) | [다락몰](https://smartstore.naver.com/cremaker) | [3D 아틀리에](http://www.3datelier.co.kr/) |
 | 가격 | 1,450,000 원 |  2,700,000 원 | 550,000 원 | 440,000 원 | 249,000 원| 650,000 원 |
 | 간단 설명 |
+| 커뮤니티 | [STICK 3D FROM](https://cafe.naver.com/3dkor) | | [네오시스](https://cafe.naver.com/neoizm) | | [크리메이커](https://cafe.naver.com/cremaker) | [3D 아틀리에](https://cafe.naver.com/3datelier) |
 | 챔버형 | O | X | X | X | X | O |
 | 챔버 필터 |  | X | X | X | X |  |
 | 조립 판매 |  |  |  |  |  |  |
@@ -85,6 +87,7 @@
 | 판매처 | [내써팝](http://nasspop.com/) | [크리에이터블](https://creatablelabs.com/) |
 | 가격 | 000,000  | 1,540,000 |
 | 간단 설명 | 판매사이트 검색 볼가 |
+| 커뮤니티 | | |
 | 챔버형 | | X |
 | 챔버 필터 | | X |
 | 조립 판매 | | |
